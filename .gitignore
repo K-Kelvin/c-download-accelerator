@@ -1,0 +1,4 @@
+*.o
+http_downloader
+*.png
+*.gif
